@@ -9,6 +9,19 @@ Below which you can type your reply and then this quoted text will look like a r
 All those DateTime types are parsed and  shows in the standard form like `6/24/2022, 7:36 PM`
 - Also Handles Chat Spaces with multiple input boxes
 
-# Sample
+## Prerequisite
+ `TamperMonkey Extension`
+ > Or
+
+ `TamperMonkey Beta Extension`
+
+## Install
+Follow the step below:
+ - Visit this [here](https://github.com/avinashkarhana/tamperMonkeyScripts/raw/main/GChat%20Message%20Reply%20Button/GChat%20Message%20Reply%20Button.user.js) once TamperMonkey is installed
+ - Click Install
+
+ Done !
+
+## Sample
 ![image info](./Images/Gchat_Reply_Button.png "GChat Reply Button")
 ![image info](./Images/Gchat_Reply_Result.png "GChat Reply Result")
