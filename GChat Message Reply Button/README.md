@@ -13,7 +13,10 @@ All those DateTime types are parsed and  shows in the standard form like `6/24/2
  `TamperMonkey Extension`
  > Or
 
- `TamperMonkey Beta Extension`
+ `TamperMonkey Beta Extension` 
+ > >  Click [here](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf?hl=en) to install extension for chrome.
+
+ > > Click [here](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) to install extension for Firefox.
 
 ## Install
 Follow the step below:
