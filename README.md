@@ -13,4 +13,4 @@ A repo for customizations and personalization TamperMonkey Scripts
  `TamperMonkey Beta Extension` 
  > >  Click [here](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf?hl=en) to install extension for chrome.
 
- > > Click [here](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) to install extension for Firefox.
+ > > Click [here](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) to install extension for Firefox browser.
