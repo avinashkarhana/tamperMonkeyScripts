@@ -6,7 +6,7 @@
 // @downloadURL  https://github.com/avinashkarhana/tamperMonkeyScripts/raw/main/Youtube%20Download%20Button%20Replace/Youtube%20Download%20Button%20Replace.user.js
 // @description  Replace the default download button with a download button that will download the video in different formats and qualities.
 // @author       Avinash Karhana
-// @match        *://*.youtube.com/*
+// @match        *://*.youtube.com/watch?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // ==/UserScript==
