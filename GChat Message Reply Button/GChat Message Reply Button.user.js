@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GChat Message Reply Button
-// @namespace    http://avinashkarhana.github.io/
+// @namespace    http://avinashkarhana.codes/
 // @version      0.1
 // @updateURL    https://github.com/avinashkarhana/tamperMonkeyScripts/raw/main/GChat%20Message%20Reply%20Button/GChat%20Message%20Reply%20Button.user.js
 // @downloadURL  https://github.com/avinashkarhana/tamperMonkeyScripts/raw/main/GChat%20Message%20Reply%20Button/GChat%20Message%20Reply%20Button.user.js
